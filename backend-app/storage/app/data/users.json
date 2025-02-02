@@ -1,0 +1,23 @@
+[
+    {
+        "user_id": "user123",
+        "points": 650,
+        "name": "user",
+        "username": "user",
+        "password": "password"
+    },
+    {
+        "user_id": "user456",
+        "points": 300,
+        "name": "Jane Smith",
+        "username": "janesmith",
+        "password": "password"
+    },
+    {
+        "user_id": "user789",
+        "points": 150,
+        "name": "Alex Johnson",
+        "username": "alexj",
+        "password": "password"
+    }
+]
